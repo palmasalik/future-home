@@ -1869,9 +1869,6 @@ input::placeholder {
   border: none;
   outline: none;
   background: transparent;
-  padding: 15px;
-  transition: .5s;
-  border-radius: 50%;
 }
 
 .slider_prev {
