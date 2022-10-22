@@ -1,0 +1,2241 @@
+@media (max-width: 1399px) {
+    .arrows {
+        top: 38%;
+    }
+
+
+    .iconki {
+        width: 10% !important;
+    }
+
+    .popap_last {
+        right: -21%;
+    }
+
+    .ggaa {
+        right: 0;
+    }
+
+    .receipt.active .receipt__window {
+        height: 632px !important;
+    }
+
+    .receipt__window-btn {
+        right: 3px;
+    }
+
+    .seca5 {
+        padding-bottom: 141px;
+    }
+
+    .carousel-caption {
+        right: 0 !important;
+    }
+
+    .carousel-control-prev {
+        left: 87% !important;
+    }
+
+    .carousel-control-next {
+        right: 0 !important;
+    }
+}
+
+@media (max-width: 1299px) {
+    .one_clik {
+        top: -2%;
+        right: 11%;
+    }
+
+    .two_clik {
+        top: 15%;
+    }
+
+    .five_clik {
+        right: 25%;
+    }
+
+    .six_clik {
+        top: 57%;
+    }
+
+    .nine_clik {
+        top: -2%;
+    }
+
+    .krug {
+        top: 22%;
+        left: 41%;
+    }
+}
+
+@media (max-width: 1199px) {
+    .rating {
+        max-width: 800px;
+    }
+
+    .small1,
+    .small2,
+    .small3,
+    .small4,
+    .small5,
+    .small6,
+    .small7,
+    .small8 {
+        font-size: 14px;
+    }
+
+    .small8 {
+        right: 6%;
+    }
+
+    .rating {
+        max-width: 640px;
+    }
+
+    .prosentages,
+    .prosentage {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+
+    .slider_next {
+        right: 20%;
+    }
+
+    .one_clik,
+    .two_clik,
+    .three_clik,
+    .four_clik,
+    .five_clik,
+    .six_clik,
+    .seven_clik,
+    .eight_clik,
+    .nine_clik,
+    .ten_clik,
+    .eleven_clik {
+        font-size: 40px;
+    }
+
+    .eeeasaf {
+        margin-left: 35% !important;
+        height: max-content;
+    }
+
+    .arrows {
+        top: 47%;
+    }
+
+    .sborkafivech {
+        width: 180px;
+        height: 100px;
+        padding: 0;
+        justify-content: center;
+    }
+
+    .relaxhime {
+        width: auto;
+    }
+
+    .stepchik::after {
+        width: 110px;
+        margin-left: 10px;
+    }
+
+    .iconki {
+        width: 15% !important;
+    }
+
+    .imgjj,
+    .telandru {
+        width: max-content !important;
+    }
+
+    .efeffefqqq {
+        width: 65%;
+    }
+
+    .kara {
+        width: 50% !important;
+    }
+
+    .karasborka {
+        width: 50% !important;
+        margin-top: 0 !important;
+    }
+
+    .seen {
+        align-items: center;
+    }
+
+    .seca2 {
+        padding-top: 150px;
+
+    }
+
+    .sborkachacti {
+        width: max-content !important;
+    }
+
+    .rory {
+        align-items: flex-end;
+    }
+
+    .krug {
+        top: 17%;
+        left: 42%;
+        width: 180px;
+        height: 180px;
+    }
+
+    .popap_last {
+        right: -30%;
+    }
+
+    .eefvvv {
+        width: 55% !important;
+    }
+
+    .textiki {
+        width: max-content !important;
+    }
+
+    .bombaa {
+        width: 50%;
+    }
+
+    .efvvasdf {
+        width: 70%;
+    }
+
+    .vfrera {
+        width: 50%;
+    }
+
+    .ebveb {
+        width: 76%;
+    }
+
+    .rbbrrf {
+        width: max-content;
+    }
+
+    .brbrr {
+        width: 46%;
+    }
+
+    .seca4 {
+        height: 715px;
+    }
+
+    .receipt.active .receipt__window {
+        width: 50%;
+    }
+}
+
+@media (max-width: 991px) {
+    .nav-links:hover {
+        color: white !important;
+    }
+
+    .nav-links {
+        width: max-content;
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .nav-links::after {
+        content: '';
+        width: 100%;
+        height: 1px;
+        background: transparent;
+        margin-top: 5px;
+        transition: .5s;
+
+    }
+
+    .nav-links:hover::after {
+        background: white;
+
+    }
+
+
+
+    .dffff {
+        display: block;
+        position: relative;
+        padding-top: 60px;
+    }
+
+    .eeeasaf {
+        width: auto !important;
+        margin: auto !important;
+    }
+
+    .one_clik,
+    .two_clik,
+    .three_clik,
+    .four_clik,
+    .five_clik,
+    .six_clik,
+    .seven_clik,
+    .eight_clik,
+    .nine_clik,
+    .ten_clik,
+    .eleven_clik {
+        font-size: 30px;
+    }
+
+    .iconki {
+        display: none;
+    }
+
+    .header {
+        position: fixed;
+        z-index: 555;
+        right: 0%;
+        top: -7px;
+        width: 100%;
+        background: grey;
+        border-radius: 0 0 25% 25%;
+    }
+
+    .navbarsi {
+        width: max-content !important;
+        margin-right: 17% !important;
+    }
+
+    .receipt.active .receipt__window {
+        width: 80%;
+    }
+
+    .telandru {
+        display: flex;
+        position: absolute;
+        right: 23%;
+    }
+
+    .efewrh {
+        justify-content: space-evenly;
+    }
+
+    .olo1 {
+        font-size: 50px;
+    }
+
+    .seca2 {
+        margin-top: 50px;
+        padding-top: 0;
+    }
+
+    .sborkachacti {
+        width: 220px !important;
+    }
+
+    .popap_last {
+        right: -41%;
+        z-index: 22;
+    }
+
+    .animationtext {
+        font-size: 50px;
+    }
+
+    .ashka:first-child {
+        position: absolute;
+        top: -3%;
+        left: 15px;
+    }
+
+    .book {
+        position: absolute;
+        top: 0.5%;
+        left: 15px;
+    }
+
+    .eefvvv {
+        width: 50% !important;
+    }
+
+    .infost {
+        font-size: 50px;
+    }
+
+    .carousel-control-next,
+    .carousel-control-prev {
+        top: 40% !important;
+    }
+
+    .carousel-control-prev {
+        left: 81% !important;
+    }
+
+    .seca6 {
+        padding: 96px 0 0 0;
+    }
+
+    .team {
+        font-size: 50px;
+    }
+
+    .colorh,
+    .colorha,
+    .colorhaa {
+        font-size: 20px !important;
+    }
+
+    .seca8 {
+        background: var(--once-time-background);
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+
+    .seca3 {
+        padding-top: 114px;
+        padding-bottom: 158px;
+    }
+
+    .seca5 {
+        padding-bottom: 41px;
+    }
+
+    .totaltext {
+        margin-bottom: 9px;
+    }
+
+    .free {
+        position: absolute;
+        top: 2%;
+        left: 15px;
+    }
+
+    .diffpopup,
+    .diffpopupp,
+    .diffpopuppp,
+    .diffpopupppp,
+    .diffpopuppppp,
+    .diffpopupppppp {
+        left: -80px;
+    }
+
+    .sborimgstart,
+    .slider {
+        width: 100%;
+        height: 700px;
+    }
+
+    .arrows {
+        width: 100%;
+    }
+
+    .slider_next {
+        right: 10%;
+    }
+
+    .rightsb {
+        margin-left: 0;
+    }
+
+    .krutodel {
+        flex-direction: column;
+    }
+
+    .sborkafivech {
+        width: 100%;
+    }
+
+    .sborkafivech:nth-of-type(-n+4) {
+        margin-bottom: 22px;
+    }
+
+    .stepchik::after {
+        width: 70px;
+    }
+
+    .relaxhime {
+        width: 127px;
+    }
+
+    .ebveb {
+        width: auto;
+    }
+
+    .cveebb {
+        font-size: 20px;
+        padding: 15px 15px;
+    }
+
+    .bdfgberbr {
+        margin-bottom: 38px !important;
+    }
+
+    .fefef {
+        left: 25%;
+    }
+}
+
+@media (max-width:767px) {
+    .rating {
+        height: 640px;
+        display: flex;
+        flex-direction: column-reverse;
+        right: 40%;
+    }
+
+    .eewfgs {
+        row-gap: 50px;
+    }
+
+    .innerLine {
+        top: 0%;
+        height: auto;
+    }
+
+    .line {
+        top: 1px;
+        left: 50%;
+        width: 2px;
+        height: 100%;
+    }
+
+    .prosentage {
+        top: -4%;
+        left: 48%;
+        height: max-content;
+    }
+
+    .datamet {
+        top: -7%;
+        left: 45%;
+    }
+
+    .dataend {
+        bottom: -6%;
+        right: 44.5%;
+    }
+
+    .prosentages {
+        bottom: -10%;
+        right: 46%;
+    }
+
+    .textrating {
+        top: -1%;
+        left: 57%;
+    }
+
+    .textratings {
+        top: 33%;
+        left: 57%;
+    }
+
+    .textratingsa {
+        top: 60%;
+        left: 57%;
+    }
+
+    .textratingsaw {
+        top: 93%;
+        left: 57%;
+    }
+
+    .small1,
+    .small2,
+    .small3,
+    .small4,
+    .small5,
+    .small6,
+    .small7,
+    .small8 {
+        font-size: 14px;
+        left: 57%;
+    }
+
+    .small1 {
+        top: 11.5%;
+    }
+
+    .small2 {
+        top: 19%;
+    }
+
+    .small3 {
+        top: 26%;
+    }
+
+    .small4 {
+        top: 45%;
+    }
+
+    .small5 {
+        top: 52%;
+    }
+
+    .small6 {
+        top: 71%;
+    }
+
+    .small7 {
+        top: 79%;
+    }
+
+    .small8 {
+        top: 86%;
+    }
+
+    .sborimgstart,
+    .slider {
+        width: 100%;
+        height: 470px;
+    }
+
+    .carousel-inner {
+        padding-top: 150px !important;
+    }
+
+    .ruls {
+        font-size: 48px;
+    }
+
+    .divsbdef {
+        display: block;
+    }
+
+    .divdef {
+        justify-content: unset;
+    }
+
+    .divdef:first-child {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .sborkalastsurv {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-evenly;
+        margin-bottom: 52px;
+    }
+
+    .stepchik,
+    .stepchikk {
+        margin-top: 0;
+    }
+
+    .stepchik::after {
+        content: none;
+    }
+
+    .lastsb {
+        display: block;
+    }
+
+    .imofater::after {
+        content: '';
+        display: block;
+        width: 2px;
+        height: 100px;
+        background: grey;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .relaxhime {
+        width: 223px;
+        margin-bottom: 0 !important;
+    }
+
+    .nextstep {
+        font-size: 42px;
+    }
+
+    .eewfgs {
+        justify-content: center;
+        margin-top: 50px;
+    }
+
+    .asdfefef,
+    .asdfefeff,
+    .asdfefefff,
+    .asdfefeffff,
+    .asdfefefffff,
+    .asdfefeffffff {
+        margin-bottom: 45px;
+    }
+
+    .ebveb {
+        position: absolute;
+        top: 10px;
+    }
+
+    .seca12 {
+        position: relative;
+    }
+
+    .fevvaa {
+        display: block;
+    }
+
+    .vfrera {
+        width: 70%;
+    }
+
+    .bbsww {
+        font-size: 37px;
+    }
+
+    .footer {
+        position: relative;
+        padding-bottom: 22%;
+        height: 0%;
+    }
+
+    .efevv {
+        left: 3%;
+    }
+
+    .dffooter {
+        flex-direction: column;
+    }
+
+    .firstdiv {
+        position: absolute;
+        bottom: 0;
+        text-align: center;
+    }
+
+    .konatak {
+        width: 70%;
+        text-align: center;
+        margin: auto;
+        margin-top: 25px;
+    }
+
+    .parafive {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .doci {
+        font-size: 46px;
+    }
+
+    .seen {
+        flex-direction: column;
+    }
+
+    .efeffefqqq {
+        width: 100%;
+    }
+
+    .karasborka {
+        width: 100% !important;
+    }
+
+    .olo1 {
+        text-align: center;
+        font-size: 51px;
+    }
+
+    .olo2 {
+        width: 54%;
+        text-align: center;
+        margin: auto auto 55px auto;
+    }
+
+    .olo3 {
+        margin: 0 auto;
+        display: flex;
+        width: max-content;
+    }
+
+    .rory {
+        display: block !important;
+    }
+
+    .tolop {
+        bottom: 68%;
+    }
+
+    .krug {
+        top: 25%;
+        width: 140px;
+        height: 140px;
+    }
+
+    .arrow {
+        height: 90%;
+    }
+
+    .animationtext {
+        font-size: 40px;
+        width: 50%;
+        margin-bottom: 45px;
+    }
+
+    .eefvvv {
+        width: 100% !important;
+    }
+
+    .popap_last {
+        right: -70%;
+        top: 34%;
+    }
+
+    .textiki {
+        margin-top: 40px !important;
+    }
+
+    .seca3 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .dfaeww {
+        margin-bottom: 0px;
+    }
+
+    .carousel-control-prev {
+        top: -50% !important;
+        left: 0 !important;
+    }
+
+    .carousel-control-next {
+        left: 15% !important;
+        top: -50% !important;
+
+    }
+
+    .carousel-control-prev span,
+    .carousel-control-next span {
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .carousel-caption {
+        position: absolute !important;
+        right: 0% !important;
+        top: -50% !important;
+        text-align: start !important;
+        width: 100% !important;
+        padding: 10px;
+    }
+
+    .raba {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ggaa {
+        right: 5%;
+        width: 50%;
+        text-align: start;
+    }
+
+    .menu {
+        max-width: 25%;
+    }
+
+    .seca4 {
+        height: 450px;
+    }
+
+    .team {
+        font-size: 40px;
+    }
+
+    .navbarsi {
+        width: max-content !important;
+        margin-right: 15% !important;
+    }
+
+    .extraw {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+
+    .diffpopup,
+    .diffpopupp,
+    .diffpopuppp,
+    .diffpopupppp,
+    .diffpopuppppp,
+    .diffpopupppppp {
+        left: -43px;
+    }
+
+    .sdghg4rh {
+        align-items: flex-end;
+    }
+
+    .seca10 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .eeeasaf {
+        margin-top: 55px !important;
+    }
+}
+
+@media (max-width:690px) {
+    .one_clik {
+        top: -3%;
+        right: 8%;
+    }
+
+    .two_clik {
+        right: 8%;
+        top: 14%;
+    }
+
+    .three_clik {
+        top: 33%;
+        right: 11%;
+    }
+
+    .four_clik {
+        top: 49%;
+        right: 21%;
+    }
+
+    .five_clik {
+        right: 23%;
+        top: 67%;
+    }
+
+    .six_clik {
+        right: 40%;
+        top: 56%;
+    }
+
+    .seven_clik {
+        top: 35%;
+        right: 52%;
+    }
+
+    .eight_clik {
+        top: 28%;
+        right: 36%;
+    }
+
+    .nine_clik {
+        top: -2%;
+        right: 36%;
+    }
+
+    .ten_clik {
+        top: 0%;
+        right: 62%;
+    }
+
+    .eleven_clik {
+        top: 20%;
+        right: 67%;
+    }
+
+    .one_clik,
+    .two_clik,
+    .three_clik,
+    .four_clik,
+    .five_clik,
+    .six_clik,
+    .seven_clik,
+    .eight_clik,
+    .nine_clik,
+    .ten_clik,
+    .eleven_clik {
+        font-size: 22px;
+    }
+}
+
+@media (max-width:575px) {
+    .ebveb {
+        font-size: 26px;
+    }
+
+    .sborkachacti {
+        width: 120px !important;
+    }
+
+    .abouttree {
+        font-size: 15px;
+    }
+
+    .tree {
+        font-size: 17px;
+    }
+
+    .rory {
+        display: flex !important;
+        align-items: baseline !important;
+    }
+
+    .popap_last {
+        width: 193px;
+        height: 163px;
+    }
+
+    .lasttop {
+        margin-bottom: 6px;
+    }
+
+    .search {
+        padding: 5px 50px;
+    }
+
+    .krug {
+        left: 36%;
+    }
+
+    .efewrh {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .began {
+        font-size: 47px;
+    }
+
+    .efevv {
+        width: 50% !important;
+    }
+
+    .textbig {
+        width: 100%;
+        text-align: start;
+        margin-top: 20px;
+    }
+
+    .bombaa {
+        width: 360px;
+        height: 250px;
+    }
+
+    .bbsww {
+        font-size: 30px;
+    }
+
+    .cveebb {
+        position: absolute;
+        top: 0;
+        right: -85%;
+        font-size: 14px;
+    }
+
+    .bdfgberbr {
+        font-size: 18px;
+    }
+
+    .dffff {
+        width: 90% !important;
+        margin-left: 0 !important;
+    }
+
+    .diffpopup,
+    .diffpopupp,
+    .diffpopuppp,
+    .diffpopupppp,
+    .diffpopuppppp,
+    .diffpopupppppp {
+        width: 340px;
+        height: 300px;
+        left: -4px;
+    }
+
+    .inptext {
+        width: 280px;
+        height: 40px;
+    }
+
+    .butsent,
+    .butsentt,
+    .butsenttt,
+    .butsentttt,
+    .butsenttttt,
+    .butsentttttt {
+        padding: 8px 22px;
+        font-size: 14px;
+    }
+
+    .senturdoc {
+        margin-bottom: 2px;
+    }
+
+    .secta1 {
+        margin-bottom: 70px;
+    }
+
+    .secta2 {
+        padding-top: 70px;
+        padding-bottom: 80px;
+
+    }
+
+    .lastsb {
+        margin-bottom: 0;
+    }
+
+    .seca9,
+    .secta4 {
+        padding-top: 70px;
+    }
+
+    .lastsb {
+        margin-top: 60px;
+    }
+
+    .fefef {
+        display: none;
+    }
+
+    .footer {
+        padding-bottom: 28%;
+    }
+}
+
+@media (max-width:575px) {
+
+    .one_clik,
+    .two_clik,
+    .three_clik,
+    .four_clik,
+    .five_clik,
+    .six_clik,
+    .seven_clik,
+    .eight_clik,
+    .nine_clik,
+    .ten_clik,
+    .eleven_clik {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:500px) {
+    .one_clik {
+        top: -4%;
+        right: 5%;
+    }
+
+    .two_clik {
+        right: 6%;
+        top: 12%;
+    }
+
+    .three_clik {
+        top: 30%;
+        right: 8%;
+    }
+
+    .four_clik {
+        top: 45%;
+        right: 18%;
+    }
+
+    .five_clik {
+        right: 21%;
+        top: 65%;
+    }
+
+    .six_clik {
+        right: 38%;
+        top: 53%;
+    }
+
+    .seven_clik {
+        top: 32%;
+        right: 50%;
+    }
+
+    .eight_clik {
+        top: 25%;
+        right: 33%;
+    }
+
+    .nine_clik {
+        top: -4%;
+        right: 33%;
+    }
+
+    .ten_clik {
+        top: -3%;
+        right: 59%;
+    }
+
+    .eleven_clik {
+        top: 17%;
+        right: 65%;
+    }
+}
+
+@media (max-width:450px) {
+
+
+    .right::before ,
+    .left::before {
+        padding: 6px;
+    }
+    .right::before,
+    .left::before{
+        font-size: 22px;
+    }
+    .kruto {
+        top: 5%;
+        height: 95%;
+    }
+
+    .eewfgs {
+        row-gap: 30px;
+    }
+
+    .telegram {
+        left: 9%;
+        width: 50px;
+        height: 50px !important;
+        padding: 3px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .whatsapp {
+        padding: 2px;
+        padding-right: 10px;
+        padding-left: 10px;
+        left: 44%;
+    }
+
+    .viber {
+        left: 73%;
+        padding: 2px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+
+    .rating {
+        height: 440px;
+    }
+
+    .textrating {
+        top: 1.5%;
+        font-size: 15px;
+    }
+
+    .textratings {
+        top: 34%;
+        font-size: 15px;
+    }
+
+    .textratingsa {
+        top: 60.5%;
+        font-size: 15px;
+    }
+
+    .textratingsaw {
+        top: 93%;
+        font-size: 15px;
+        width: max-content;
+    }
+
+    .small1,
+    .small2,
+    .small3,
+    .small4,
+    .small5,
+    .small6,
+    .small7,
+    .small8 {
+        width: max-content;
+    }
+
+    .datamet {
+        top: -8%;
+        left: 44%;
+    }
+
+    .prosentage {
+        top: -5%;
+    }
+
+    .dataend {
+        bottom: -8%;
+        right: 42.5%;
+    }
+
+    .prosentages {
+        bottom: -13%;
+        right: 45%;
+    }
+
+    .small,
+    small {
+        font-size: .875em;
+        width: 9px;
+        height: 9px;
+    }
+
+    .line {
+        left: 49.7%;
+    }
+
+    .level {
+        font-size: 30px;
+        margin-bottom: 0;
+        line-height: 52px;
+    }
+
+    .data {
+        font-size: 18px;
+    }
+
+    .seca7 {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+
+    .vvv {
+        margin-bottom: 65px;
+    }
+
+    .navbarsi {
+        margin-right: 11% !important;
+    }
+
+    .one_clik,
+    .two_clik,
+    .three_clik,
+    .four_clik,
+    .five_clik,
+    .six_clik,
+    .seven_clik,
+    .eight_clik,
+    .nine_clik,
+    .ten_clik,
+    .eleven_clik {
+        padding: 19px;
+    }
+
+    .popap_last {
+        right: -70%;
+        top: 17%;
+    }
+
+    .menu {
+        max-width: 29%;
+        align-items: self-end;
+    }
+
+
+    .qwert,
+    .asdfgh {
+        font-size: 16px;
+    }
+
+    .animationtext {
+        font-size: 29px;
+        width: 48%;
+        margin-bottom: 30px;
+    }
+
+    .seca4 {
+        height: 380px;
+    }
+
+    .began {
+        font-size: 37px;
+        top: 13%;
+        left: 7%;
+    }
+
+    .ggaa {
+        font-size: 15px;
+        right: 7%;
+        top: 37%;
+        width: 43%;
+        text-align: start;
+    }
+
+    .noriya {
+        width: 100%;
+    }
+
+    .seca5 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .history {
+        margin-bottom: 0;
+        font-size: 30px;
+    }
+
+    .peice {
+        margin-top: 20px;
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+
+    .addCart {
+        padding: 55px;
+    }
+
+    .asdfzxcv {
+        font-size: 15px;
+    }
+
+    .seca6 {
+        padding: 30px 0 0 0;
+    }
+
+    .infost {
+        font-size: 30px;
+    }
+
+    .bombaa {
+        width: 226px;
+        height: 250px;
+    }
+
+    .herova {
+        font-size: 14px;
+        padding: 7px;
+        margin-right: 5px;
+    }
+
+    .team {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+
+    .repa {
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+
+    .raba {
+        font-size: 16px;
+    }
+
+    .raba span {
+        font-size: 14px;
+    }
+
+    .extraw {
+        font-size: 30px;
+    }
+
+    .bbww {
+        font-size: 16px;
+    }
+
+    .geodara {
+        font-size: 17px;
+        margin-bottom: 3px;
+    }
+
+    .seca10 {
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+
+    .seca8 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .eeeasaf {
+        margin-top: 20px !important;
+    }
+
+    .seca3 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .krug {
+        top: 30%;
+        width: 120px;
+        height: 120px;
+        left: 35%;
+    }
+
+
+    .olo1 {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .olo2 {
+        margin: auto auto 35px auto;
+    }
+
+    .nav-links {
+        padding: 0px;
+    }
+
+    .nav-item {
+        width: 100%;
+        text-align: start;
+        margin: 10px;
+    }
+
+
+
+
+    .sborimgstart,
+    .slider {
+        width: 90%;
+        height: 300px;
+    }
+
+    .sborimg {
+        height: 300px;
+    }
+
+    .slider_next {
+        right: 21%;
+    }
+
+    .backkk {
+        font-size: 12px;
+    }
+
+    .arrows {
+        top: 28%;
+    }
+
+    .slider_next,
+    .slider_prev {
+        background: transparent;
+        border: none;
+        outline: none;
+    }
+
+    .ashka,
+    .ruls {
+        font-size: 18px;
+    }
+
+    .numfive {
+        margin-bottom: 6px;
+    }
+
+    .ashka {
+        margin-bottom: 8px;
+    }
+
+    .bbbok {
+        padding: 8px 5px;
+    }
+
+    .bookk {
+        margin-bottom: 25px;
+    }
+
+    .homestyle {
+        font-size: 14px;
+    }
+
+    .sborkafivech {
+        height: 70px;
+    }
+
+    .leveleta {
+        font-size: 12px;
+    }
+
+    .anility {
+        font-size: 11px;
+    }
+
+    .nextstep,
+    .doci {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+
+    .lastsb {
+        margin-top: 40px;
+    }
+
+    .svgg {
+        margin-top: 10px;
+        font-size: 17px;
+    }
+
+    .asdfefef,
+    .asdfefeff,
+    .asdfefefff,
+    .asdfefeffff,
+    .asdfefefffff,
+    .asdfefeffffff {
+        padding: 14px 80px;
+        width: 324px;
+    }
+
+    .senturdoc {
+        font-size: 18px;
+        line-height: 22px;
+        width: 240px;
+    }
+
+    .diffpopup,
+    .diffpopupp,
+    .diffpopuppp,
+    .diffpopupppp,
+    .diffpopuppppp,
+    .diffpopupppppp {
+        width: 300px;
+        height: 270px;
+        left: 11px;
+    }
+
+    .inptext {
+        width: 240px;
+        height: 35px;
+    }
+
+    .touchit {
+        width: 240px;
+        font-size: 10px;
+    }
+
+    .seca9 {
+        height: 750px;
+    }
+
+    .ebveb {
+        font-size: 20px;
+    }
+
+    .rbbrrf {
+        font-size: 19px;
+    }
+
+    .cveebb {
+        top: -45px;
+        font-size: 11px;
+        padding: 10px 10px;
+    }
+
+    .bbsww {
+        position: absolute;
+        font-size: 20px;
+        top: -40px;
+    }
+
+    .bdfgberbr {
+        font-size: 13px;
+        width: 237px;
+        position: absolute;
+        top: -15px;
+    }
+
+    .footer {
+        padding-top: 45px;
+        padding-bottom: 30%;
+
+    }
+
+    .divvnutri {
+        justify-content: space-evenly;
+        margin-top: 15px;
+    }
+
+    .krutodel {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width:399px) {
+    .telegram {
+        left: 15%;
+        width: 35px;
+        height: 35px !important;
+        padding: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+        background: none;
+        color: white;
+        top: -9px;
+    }
+
+    .eewfgs {
+        row-gap: 0px;
+    }
+
+    .whatsapp {
+        padding: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+        left: 47%;
+        width: 35px;
+        height: 35px;
+        background: none;
+        color: white;
+        top: -10px;
+    }
+
+    .viber {
+        left: 76%;
+        padding: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 35px;
+        height: 35px;
+        background: none;
+        color: white;
+        top: -9px;
+    }
+
+
+
+    .rating__item {
+        width: 30px;
+        height: 30px;
+    }
+
+    .small,
+    small {
+        width: 9px;
+        height: 9px;
+    }
+
+    .textrating {
+        top: 1%;
+        font-size: 13px;
+    }
+
+    .textratings {
+        font-size: 13px;
+    }
+
+    .textratingsa {
+        font-size: 13px;
+    }
+
+    .textratingsaw {
+        top: 94%;
+        font-size: 13px;
+    }
+
+    .small1,
+    .small2,
+    .small3,
+    .small4,
+    .small5,
+    .small6,
+    .small7,
+    .small8 {
+        width: max-content;
+        height: max-content;
+        font-size: 12px;
+    }
+
+    .datamet {
+        top: -8%;
+        left: 42%;
+        height: max-content;
+    }
+
+    .dataend {
+        bottom: -8%;
+        right: 39.5%;
+    }
+
+    .prosentages {
+        bottom: -13%;
+        right: 43%;
+    }
+
+    .seca7 {
+        padding-top: 30px;
+    }
+
+    .burger-btn {
+        width: 35px;
+        height: 35px;
+    }
+
+    .level {
+        font-size: 20px;
+        margin-bottom: 0;
+        line-height: 35px;
+    }
+
+    .data {
+        margin-bottom: 0;
+        font-size: 15px;
+    }
+
+    .navbarsi {
+        top: 1.5%;
+    }
+
+    .olo1 {
+        width: 50%;
+        font-size: 21px;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+    .olo2 {
+        font-size: 15px;
+        margin-bottom: 22px;
+    }
+
+    .secta1 {
+        margin-top: 25px;
+    }
+
+    .ashka,
+    .ruls {
+        font-size: 15px;
+    }
+
+    .book {
+        font-size: 11px;
+    }
+
+    .arrow {
+        height: 75%;
+    }
+
+    .krug {
+        top: 36%;
+        width: 80px;
+        height: 80px;
+        left: 35%;
+    }
+
+    .qwert,
+    .asdfgh {
+        font-size: 11px;
+        margin-bottom: 5px;
+    }
+
+    .tree {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .abouttree {
+        font-size: 13px;
+    }
+
+    .sborkachacti {
+        width: 100px !important;
+    }
+
+    .seca3 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .animationtext {
+        font-size: 19px;
+    }
+
+    .free {
+        top: 2.5%;
+        font-size: 14px;
+    }
+
+    .textiki {
+        margin-top: 10px !important;
+    }
+
+    .began {
+        font-size: 23px;
+        top: 16%;
+        left: 12%;
+    }
+
+    .ggaa {
+        font-size: 13px;
+        right: 7%;
+        top: 53%;
+        width: 60%;
+    }
+
+    .receipt__window-btn {
+        padding: 0px 6px;
+    }
+
+    .totaltext {
+        font-size: 15px;
+    }
+
+    .bombaa {
+        width: 170px;
+        height: 210px;
+    }
+
+    .textbig,
+    .noriya,
+    .noorat {
+        font-size: 11px;
+    }
+
+    .history,
+    .infost {
+        font-size: 20px;
+    }
+
+    .carousel-control-next,
+    .carousel-control-prev {
+        height: max-content;
+        top: 43% !important;
+    }
+
+    .carousel-control-prev span,
+    .carousel-control-next span {
+        width: 30px !important;
+        height: 30px !important;
+    }
+
+    .carousel-caption {
+        top: -80px !important;
+    }
+
+    .seca5 {
+        padding-bottom: 15px;
+    }
+
+    .colorh,
+    .colorha,
+    .colorhaa {
+        font-size: 15px !important;
+    }
+
+    .raba {
+        font-size: 13px;
+    }
+
+    .geodara {
+        margin-top: 10px;
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+
+    .sdghg4rh {
+        margin-bottom: 20px;
+    }
+
+    .nav-links {
+        padding: 0px;
+        font-size: 12px;
+    }
+
+    .menu {
+        max-width: 35%;
+        align-items: self-end;
+    }
+
+    .one_clik,
+    .two_clik,
+    .three_clik,
+    .four_clik,
+    .five_clik,
+    .six_clik,
+    .seven_clik,
+    .eight_clik,
+    .nine_clik,
+    .ten_clik,
+    .eleven_clik {
+        padding: 14px;
+    }
+
+    .popap_last {
+        right: -31%;
+        top: -9%;
+    }
+
+    .nav-item {
+        width: 90%;
+        text-align: start;
+        margin: 10px;
+    }
+
+    .uchastie,
+    .uchastie span {
+        font-size: 12px;
+        margin-bottom: 4px;
+    }
+
+    .lasttop,
+    .lasttop span {
+        font-size: 11px;
+    }
+
+    .bbww {
+        font-size: 14px;
+    }
+
+    .extraw {
+        font-size: 20px;
+    }
+
+    .raba span {
+        font-size: 11px;
+    }
+
+    .seca8 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .team {
+        font-size: 20px;
+    }
+
+    .repa {
+        font-size: 13px;
+    }
+
+    .carousel-inner {
+        padding-top: 100px !important;
+    }
+
+    .infost {
+        margin-bottom: 0;
+    }
+
+    .paracka {
+        font-size: 14px !important;
+        margin-bottom: 0;
+    }
+
+    .herova {
+        width: max-content;
+    }
+
+    .dfaeww {
+        display: inline-block;
+    }
+
+    .peice {
+        margin-top: 8px;
+        font-size: 13px;
+        margin-bottom: 14px;
+    }
+
+    .peaple {
+        font-size: 14px;
+        padding: 9px 20px;
+    }
+
+    .efewrh {
+        margin-bottom: 0;
+    }
+
+    .receipt.active .receipt__window {
+        padding: 30px;
+    }
+
+    .sborimg {
+        height: 240px !important;
+    }
+
+    .efeffefqqq {
+        width: 70%;
+        height: 150px;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .olo3 {
+        font-size: 14px;
+        padding: 9px 20px;
+    }
+
+    .seca1 {
+        margin-top: 20px;
+    }
+
+    .slider_next {
+        right: 23%;
+    }
+
+    .sborimgstart,
+    .slider {
+        width: 90%;
+        height: 245px;
+    }
+
+    .bbbok {
+        font-size: 14px;
+    }
+
+    .secta2 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .sborkafivech {
+        height: 55px;
+    }
+
+    .divsbdef {
+        margin-top: 20px;
+    }
+
+    .anility {
+        margin-left: 10px;
+        font-size: 9px;
+    }
+
+    .seca9,
+    .secta4 {
+        padding-top: 40px;
+    }
+
+    .nextstep,
+    .doci {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+
+    .lastsb {
+        margin-top: 20px;
+    }
+
+    .relaxhime {
+        width: 100px;
+        font-size: 12px;
+    }
+
+    .contentby {
+        width: 40px;
+        height: 40px;
+    }
+
+    .stepchik,
+    .stepchikk {
+        margin-top: 0;
+        margin-bottom: 3px;
+    }
+
+    .leavehome {
+        font-size: 14px;
+        margin-bottom: 8px !important;
+    }
+
+    .imofater::after {
+        height: 80px;
+    }
+
+    .asdfefef,
+    .asdfefeff,
+    .asdfefefff,
+    .asdfefeffff,
+    .asdfefefffff,
+    .asdfefeffffff {
+        width: 240px;
+        margin-bottom: 30px;
+        font-size: 15px;
+        padding: 10px 25px;
+    }
+
+    .seca9 {
+        height: 550px;
+    }
+
+    .diffpopup,
+    .diffpopupp,
+    .diffpopuppp,
+    .diffpopupppp,
+    .diffpopuppppp,
+    .diffpopupppppp {
+        width: 250px;
+        height: 188px;
+        left: -5px;
+    }
+
+    .senturdoc {
+        font-size: 15px;
+        line-height: 18px;
+        width: 178px;
+    }
+
+    .inptext {
+        width: 180px;
+        height: 25px;
+        font-size: 11px;
+    }
+
+    .touchit {
+        margin-top: 15px;
+        width: 180px;
+        font-size: 7px;
+    }
+
+    .butsent,
+    .butsentt,
+    .butsenttt,
+    .butsentttt,
+    .butsenttttt,
+    .butsentttttt {
+        padding: 2px 10px;
+        font-size: 10px;
+    }
+
+    .ebveb,
+    .rbbrrf {
+        font-size: 13px;
+    }
+
+    .seca12 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .vvrewb,
+    .brwv {
+        font-size: 11px;
+    }
+
+    .mail::before {
+        margin-right: 8px;
+    }
+
+    .phonetel::before {
+        margin-right: 8px;
+    }
+
+    .cveebb {
+        top: -45px;
+        font-size: 9px;
+        padding: 7px 7px;
+    }
+
+    .bbsww {
+        position: absolute;
+        font-size: 16px;
+        top: -40px;
+    }
+
+    .bdfgberbr {
+        font-size: 11px;
+        width: 197px;
+        position: absolute;
+        top: -15px;
+    }
+
+    .footer {
+        padding-top: 22px;
+        padding-bottom: 37%;
+    }
+
+    .latimog {
+        width: 85px;
+    }
+}

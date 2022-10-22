@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-MediumItalic.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'SF Pro';
+    src: url(../fonts/SFProDisplay-Regular.woff2);
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'FontAwesome Brands';
+    src: url(../icon/webfonts/fa-brands-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome Duotone';
+    src: url(../icon/webfonts/fa-duotone-900.woff2);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-light-300.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-regular-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(../icon/webfonts/fa-solid-900.woff2);
+    font-weight: 900;
+}
+
+.fab {
+    font-family: 'FontAwesome Brands';
+    font-weight: 400;
+}
+
+.fad {
+    font-family: 'FontAwesome Duotone';
+    font-weight: 900;
+}
+
+.fal {
+    font-family: 'FontAwesome';
+    font-weight: 300;
+}
+
+.far {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+}
+
+.fas {
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
+
+.left::before {
+    content: '\f060';
+    font-style: normal;
+    font-size: 35px;
+    padding: 20px;
+    background: transparent;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.right::before {
+    content: '\f061';
+    font-style: normal;
+    font-size: 35px;
+    padding: 20px;
+    background: transparent;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.left:hover::before {
+    background: white;
+    color: black;
+}
+.right:hover::before {
+    background: white;
+    color: black;
+}
