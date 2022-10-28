@@ -224,3 +224,11 @@ ratingItemsList.forEach(item =>
     }
   })
 )
+
+
+window.onload = function () {
+  let pre = document.getElementById('preload');
+ setTimeout(() => {
+  pre.style.display = 'none'
+ }, 5000);
+}
