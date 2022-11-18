@@ -228,7 +228,9 @@ ratingItemsList.forEach(item =>
 
 window.onload = function () {
   let pre = document.getElementById('preload');
+  prebody = document.querySelector('body');
  setTimeout(() => {
   pre.style.display = 'none'
- }, 5000);
+  prebody.style.overflow = 'visible'
+ }, 2500);
 }

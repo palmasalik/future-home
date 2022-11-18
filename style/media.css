@@ -3,7 +3,6 @@
         top: 38%;
     }
 
-
     .iconki {
         width: 10% !important;
     }
@@ -1178,14 +1177,16 @@
 @media (max-width:450px) {
 
 
-    .right::before ,
+    .right::before,
     .left::before {
         padding: 6px;
     }
+
     .right::before,
-    .left::before{
+    .left::before {
         font-size: 22px;
     }
+
     .kruto {
         top: 5%;
         height: 95%;

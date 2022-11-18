@@ -12,6 +12,7 @@
 body {
   font-family: var(--primary-font);
   background: var(--primary-background) !important;
+  overflow: hidden;
 }
 
 body,
